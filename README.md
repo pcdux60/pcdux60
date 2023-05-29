@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parker
 - 👀 I’m interested in creating things.
-- 🌱 I’m currently learning Computer Science at QUT.
+- 🌱 I’m currently studying Computer Science at QUT.
 - 💞️ I’m looking to collaborate on games and other projects.
 - 📫 How to reach me: You can email me at pcdux60@gmail.com or add me on discord at Paca#0624
 
